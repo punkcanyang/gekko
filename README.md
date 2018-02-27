@@ -1,4 +1,13 @@
 # gekko
 
-Easy to start Gekko
-https://drive.google.com/file/d/1dKbtJPeL2QZ4EIC5p4CGZr-bG4NhU9D6/view?usp=sharing
+new version
+
+https://drive.google.com/file/d/1zhFvbZOCZGeNHhk9OpZaouTzf7W-oxmN/view?usp=sharing
+
+Download Vbox
+
+Import ova
+
+turn on
+
+Start GGGGekko,Enjoy...
