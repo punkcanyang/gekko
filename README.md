@@ -2,6 +2,8 @@
 
 new version gekko ova 
 
+Requestment: You need have DHCP in your Lan...
+
 Auto login,Including the usually used strategy,auto gekko
 
 Pre install ftp,japonicus 
