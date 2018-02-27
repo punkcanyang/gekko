@@ -2,7 +2,10 @@
 
 new version gekko ova 
 
-Requestment: You need have DHCP in your Lan...
+Requestment: You need DHCP in your Lan...or set network to NAT and forward port...
+
+
+
 
 Auto login,Including the usually used strategy,auto gekko
 
