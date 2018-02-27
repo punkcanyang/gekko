@@ -4,7 +4,7 @@ new version gekko ova
 
 Auto login,Including the usually used strategy,auto gekko
 
-ftp,japonicus Installed
+Pre install ftp,japonicus 
 
 Download Vbox and install
 https://www.virtualbox.org/
