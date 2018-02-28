@@ -9,30 +9,30 @@ cd gekko(where you install)
 
 if you use UI
 
-vi web/vue/UIconfig.js
+>vi web/vue/UIconfig.js
 
-adapter: 'sqlite'
+> adapter: 'sqlite'
+
 modify
-adapter: 'postgresql'
+
+> adapter: 'postgresql'
 
 save file
 
 then 
 
-vi web/routes/baseConfig.js 
+> vi web/routes/baseConfig.js 
 
 find
-connectionString: 'postgres://user:pass@localhost:5432', // if default port
-
+> connectionString: 'postgres://user:pass@localhost:5432', // if default port
 replace
-
-connectionString: 'postgres://your_user:your_password@localhost:5432', // if default port
+> connectionString: 'postgres://your_user:your_password@localhost:5432', // if default port
 
 find
 
-database: null,
+> database: null,
 replace
-database: 'gekko'
+> database: 'gekko'
 
 save file
 
