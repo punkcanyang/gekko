@@ -23,7 +23,8 @@ vi web/routes/baseConfig.js
 
 find
 connectionString: 'postgres://user:pass@localhost:5432', // if default port
-  replace
+
+replace
 connectionString: 'postgres://your_user:your_password@localhost:5432', // if default port
 
 save file
